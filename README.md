@@ -1,2 +1,2 @@
 # Karatsuba-Multiplication
-This git has karatsuba algorithm code.
+This git has karatsuba algorithm code developed recursively in java.
